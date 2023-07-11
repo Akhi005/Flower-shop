@@ -22,7 +22,7 @@
 
 .banner-container {
     background-color: rgba(229, 84, 115, 0.10);
-    height: 630px;
+    height: 650px;
 }
 .sub-banner-container{
     background-repeat: no-repeat;
@@ -30,11 +30,10 @@
     align-items: center;
     justify-content: space-around;
     padding: 50px 600px 0px 600px;
-    margin-bottom:40px;
 }
 .banner-img {
     width: 570px;
-    height: 580px;
+    height: 600px;
 }
 .btn-primary {
     padding: 20px 37px;
