@@ -16,24 +16,25 @@
     color: #27272799;
     width: 634px;
     margin: 20px 0px;
+    line-height: 18px;
+    font-size:12px;
 }
 
 .banner-container {
     background-color: rgba(229, 84, 115, 0.10);
-    height: 700px;
+    height: 630px;
 }
 .sub-banner-container{
     background-repeat: no-repeat;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 50px 700px 0px 700px;
-    /* gap: 30px; */
-    margin-bottom:20px;
+    padding: 50px 600px 0px 600px;
+    margin-bottom:40px;
 }
 .banner-img {
     width: 570px;
-    height: 650px;
+    height: 580px;
 }
 .btn-primary {
     padding: 20px 37px;
@@ -68,7 +69,7 @@
 .primary-title {
     color: #272727;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 800;
     margin-top: 120px;
 }
@@ -76,22 +77,23 @@
 .primary-description {
     color: #27272799;
     text-align: center;
-    font-size: 15px;
+    font-size: 12px;
     padding: 10px 500px;
+    line-height: 18px;
 }
 .part22{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin:70px 200px 0px 200px;
+    margin:70px 120px 0px 120px;
     text-align: center;
     background-color: #2727270D;
     font-size: 10px;
-    padding:80px;
+    padding:50px;
     color: rgba(39, 39, 39, 0.80);
 }
 .part{
-    background-size: 50px;
+    background-size: 40px;
 }
 .part1-flower-section {
     display: flex;
@@ -157,12 +159,12 @@
     text-align: center;
     font-size: 14px;
     margin: 20px 0;
-    line-height:20px;
+    line-height: 18px;
 }
 
 .part3-pic {
     margin: 10px 15px 20px 0px;
-    width: 270px;
+    width: 250px;
 }
 
 .part4-section {
@@ -200,7 +202,6 @@
     background: #111010;
     text-align: center;
     padding: 120px;
-    margin: 10px;
 }
 
 .footer-heading {
