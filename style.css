@@ -146,13 +146,14 @@
 }
 
 .part2-section {
-    margin: 100px;
+    margin: 90px;
     display: flex;
     align-items: center;
     justify-content: space-around;
-    padding: 60px 200px 60px 200px;
+    padding: 30px 200px 30px 20px;
     text-align: center;
-    gap: 100px;
+    height:420px;
+    font-size:8px;
 }
 .part2-description {
     color: rgba(39, 39, 39, 0.60);
@@ -161,7 +162,9 @@
     margin: 20px 0;
     line-height: 18px;
 }
-
+.part2-section .part2-img{
+    width:150px;
+}
 .part3-pic {
     margin: 10px 15px 20px 0px;
     width: 250px;
