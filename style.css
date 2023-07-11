@@ -1,4 +1,129 @@
-*{
-    margin:0;
-    padding:0;
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    color: #272727;
+}
+
+.header-title {
+    color: #272727;
+    font-size: 80px;
+    font-weight: 1000;
+    width: 700px;
+}
+
+.header-description {
+    color: #27272799;
+    width: 634px;
+    margin: 20px 0px;
+}
+
+.banner-container {
+    height: 100vh;
+    background-repeat: no-repeat;
+    display: flex;
+    background-color: rgba(229, 84, 115, 0.10);
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px 240px;
+    background-size: cover;
+    gap: 30px;
+}
+
+.banner-img {
+    width: 630px;
+    height: 100vh;
+}
+
+.btn-primary {
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    border: none;
+    font-weight: 700;
+}
+
+.primary-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: 178px;
+}
+
+.primary-description {
+    color: #27272799;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 550px;
+}
+
+.part1-flower-section {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 300px;
+    align-items: center;
+}
+
+.item-pic {
+    padding: 50px 50px 0 50px;
+    background-position: cover;
+    border-radius: 300px 300px 0px 0px;
+    height: 310px;
+    /* width:300px; */
+}
+
+.item-1 {
+    background: rgba(167, 33, 98, 0.15);
+    width: 250px;
+}
+
+.item-2 {
+    background: rgba(5, 151, 160, 0.15);
+    width: 250px;
+}
+
+.item-3 {
+    background: rgba(71, 125, 17, 0.15);
+    width: 250px;
+}
+
+.item-title {
+    margin-top: 10px;
+    text-decoration: underline;
+    background-color: #FFF;
+    text-align: center;
+}
+
+.part2 {
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+}
+
+.off {
+    color: #E55473;
+}
+
+.part2-heading {
+    font-size: 40px;
+    font-weight: 800;
+}
+.part2-section {
+    margin: 280px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 80px;
+    text-align: center;
+    gap:100px;
+}
+
+.part2-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    margin:20px 0;
 }
